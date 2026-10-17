@@ -3,7 +3,7 @@
 A command-line program that manages activity package bookings with classic sorting and searching
 algorithms, each written by hand.
 
-**Nanyang Polytechnic · Year 2 · 2022** · [Portfolio page](https://brandonpxw.github.io/portfolioPages/dsaproject.html)
+**Nanyang Polytechnic · Year 2 · 2022**
 
 ## What it does
 
